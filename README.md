@@ -24,13 +24,13 @@ This project focuses on building a machine learning classification model to accu
 4. **Evaluation:** * Assessed models focusing on metrics suitable for imbalanced datasets rather than relying solely on standard accuracy.
 
 ## Key Results
-* **Best Model:** [Misal: Decision Tree Classifier]
+* **Best Model:** Decision Tree Classifier
 * **Performance Metrics:**
-  * **Precision:** [Masukkan angka, misal: 0.85]
-  * **Recall:** [Masukkan angka, misal: 0.91]
-  * **F1-Score:** [Masukkan angka, misal: 0.88]
+  * **Precision:** 0.9970
+  * **Recall:** 0.9988
+  * **F1-Score:** 0.9979
 
 ## How to Run
-1. Clone this repository: `git clone [masukkan link repositori kamu]`
+1. Clone this repository: `git clone https://github.com/fzkmdly/Financial-Fraud-Detection/`
 2. Open the Jupyter Notebook: `FraudDetectionv2.ipynb`
 3. Run the cells sequentially to reproduce the analysis and model training.
